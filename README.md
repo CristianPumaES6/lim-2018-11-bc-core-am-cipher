@@ -1,4 +1,4 @@
-# Mensaje en secreto
+# Mensaje en Secreto
 ## Definicion 
 Esta pagina web fue diseñada para usuarios en general, es una herramienta gratuita en el cual
 te permitira encriptar y descencriptar mensajes, por ello se creo de una manera sencilla y facil
